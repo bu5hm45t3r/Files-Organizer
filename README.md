@@ -15,6 +15,8 @@ Files Organizer helps you organize your files into folders based on their extens
 
 ## 🛠️ Getting Started
 
+### Option 1: Clone the Repository
+
 1. **Clone the repository:**
     ```sh
     git clone https://github.com/your-username/files-organizer.git
@@ -30,6 +32,15 @@ Files Organizer helps you organize your files into folders based on their extens
     python main.py
     ```
 
+### Option 2: Download the Release
+
+1. **Download the latest release from GitHub:**
+   [Files Organizer v1.6](https://github.com/bu5hm45t3r/Files-Organizer/releases/tag/v1.6)
+
+2. **Extract the downloaded files.**
+
+3. **Run the application by double clicking the exe file**
+
 ## 🚀 How It Works
 
 1. **Select the directory** you want to organize.
@@ -44,4 +55,3 @@ Happy organizing! 📁✨
 
 ---
 [![GitHub issues](https://img.shields.io/github/issues/your-username/files-organizer)](https://github.com/your-username/files-organizer/issues) [![GitHub stars](https://img.shields.io/github/stars/your-username/files-organizer)](https://github.com/your-username/files-organizer/stargazers) [![GitHub license](https://img.shields.io/github/license/your-username/files-organizer)](https://github.com/your-username/files-organizer/blob/main/LICENSE)
-
